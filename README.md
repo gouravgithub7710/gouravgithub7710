@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi there! 👋 I'm Gourav Giri<br><br>🚀 About Me:<br>I am an IT undergraduate at Chameli Devi Group of Institutions, passionate about web development, AI, and cloud technologies.<br><br>👀 I’m interested in:<br><br>Full-stack development (MERN) 🌐<br>Artificial Intelligence & Machine Learning 🤖<br>Cloud Computing & DevOps ☁️<br>Open-source contributions 🛠️<br>🌱 I’m currently learning:<br><br>Advanced React.js & Next.js ⚛️<br>AI integrations in web applications 🤖<br>System design & scalability 🏗️<br>💞️ I’m looking to collaborate on:<br><br>Open-source projects 🏆<br>AI-based applications 💡<br>Full-stack web development projects 🔥<br>📫 How to reach me:<br><br>📧 Email: gouravgiri2004@gmail.com<br>🔗 LinkedIn: linkedin.com/in/gouravgiri2004<br>💻 GitHub: github.com/gouravgithub7710<br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I love solving coding challenges, mentoring students, and organizing tech events as a Microsoft Learn Student Ambassador! 🚀
+Hi 👋, I'm **Gourav Giri** – an IT undergraduate passionate about **MERN Stack**, **AI**, and **Cloud Computing**.  
+
+👀 **Interests:** Full-stack dev 🌐 | AI 🤖 | Open-source 🛠️  
+🌱 **Learning:** React.js ⚛️ | AI integration 🤖 | System design 🏗️  
+💞️ **Collab on:** AI & Web projects 🔥 | Open-source 🏆  
+📫 **Reach me:** 📧 gouravgiri2004@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/gouravgiri2004/) | 💻 [GitHub](https://github.com/gouravgithub7710)  
+⚡ **Fun fact:** Love solving DSA & mentoring techies 🚀
 
 
 ## 🌐 Socials:
