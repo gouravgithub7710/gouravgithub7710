@@ -2,14 +2,10 @@
 Hi 👋, I'm **Gourav Giri** – an IT undergraduate passionate about **MERN Stack**, **AI**, and **Cloud Computing**.  
 
 👀 **Interests:** Full-stack dev 🌐 | AI 🤖 | Open-source 🛠️  
-🌱 **Learning:** React.js ⚛️ | AI integration 🤖 | System design 🏗️  
+🌱 **Learning:** React.js ⚛️ | AI integration 🤖 | Web Dev🏗️  
 💞️ **Collab on:** AI & Web projects 🔥 | Open-source 🏆  
 📫 **Reach me:** 📧 gouravgiri2004@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/gouravgiri2004/) | 💻 [GitHub](https://github.com/gouravgithub7710)  
 ⚡ **Fun fact:** Love solving DSA & mentoring techies 🚀  
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouravgiri2004/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gouravgiri2004@gmail.com)  
-
 
 ## 📊 GitHub Stats & Streak Stats:
 <table>
