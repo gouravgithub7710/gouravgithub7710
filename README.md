@@ -10,26 +10,6 @@ Hi 👋, I'm **Gourav Giri** – an IT undergraduate passionate about **MERN Sta
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouravgiri2004/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gouravgiri2004@gmail.com)  
 
-## 🛠 Tech Stack & Most Used Languages:
-<table>
-  <tr>
-    <td valign="top">
-      <h3>💻 Tech Stack</h3>
-      <p>
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-      </p>
-    </td>
-    <td valign="top">
-      <h3>📊 Most Used Languages</h3>
-      <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravgithub7710&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## 📊 GitHub Stats & Streak Stats:
 <table>
