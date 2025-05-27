@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm **Gourav Giri** – an IT undergraduate passionate about **MERN Stack**, **AI**, and **Cloud Computing**.  
+Hi 👋, I'm **Gourav Giri** – [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+ -an IT undergraduate passionate about **MERN Stack**, **AI**, and **Cloud Computing**.  
 
 👀 **Interests:** Full-stack dev 🌐 | AI 🤖 | Open-source 🛠️  
 🌱 **Learning:** React.js ⚛️ | AI integration 🤖 | Web Dev🏗️  
@@ -8,7 +9,7 @@ Hi 👋, I'm **Gourav Giri** – an IT undergraduate passionate about **MERN Sta
 ⚡ **Fun fact:** Love solving DSA & mentoring techies 🚀  
 
 ## 📊 GitHub Stats & Streak Stats:
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
 
 <table>
   <tr>
