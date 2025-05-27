@@ -8,8 +8,7 @@ Hi 👋, I'm **Gourav Giri** – an IT undergraduate passionate about **MERN Sta
 ⚡ **Fun fact:** Love solving DSA & mentoring techies 🚀  
 
 ## 📊 GitHub Stats & Streak Stats:
-
-[![GitHub Stars Sparkline](https://stars.medv.io/gouravgithub7710/gouravgithub7710.svg)](https://stars.medv.io/gouravgithub7710/gouravgithub7710)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 <table>
   <tr>
