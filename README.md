@@ -1,4 +1,4 @@
-# Gourav Giri💫:[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+# Gourav Giri💫 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 Hi 👋, I'm **Gourav Giri** – an IT undergraduate passionate about **MERN Stack**, **AI**, and **Cloud Computing**.  
 
 👀 **Interests:** Full-stack dev 🌐 | AI 🤖 | Open-source 🛠️  
