@@ -1,10 +1,4 @@
 # 💫 About Me:
-
-
-[![Sparkline](https://stars.medv.io/gouravgithub7710/gouravgithub7710.svg)](https://stars.medv.io/gouravgithub7710/gouravgithub7710)
-
-
-
 Hi 👋, I'm **Gourav Giri** – an IT undergraduate passionate about **MERN Stack**, **AI**, and **Cloud Computing**.  
 
 👀 **Interests:** Full-stack dev 🌐 | AI 🤖 | Open-source 🛠️  
@@ -14,6 +8,9 @@ Hi 👋, I'm **Gourav Giri** – an IT undergraduate passionate about **MERN Sta
 ⚡ **Fun fact:** Love solving DSA & mentoring techies 🚀  
 
 ## 📊 GitHub Stats & Streak Stats:
+
+[![GitHub Stars Sparkline](https://stars.medv.io/gouravgithub7710/gouravgithub7710.svg)](https://stars.medv.io/gouravgithub7710/gouravgithub7710)
+
 <table>
   <tr>
     <td valign="top">
