@@ -8,8 +8,6 @@ Hi 👋, I'm **Gourav Giri** – an IT undergraduate passionate about **MERN Sta
 ⚡ **Fun fact:** Love solving DSA & mentoring techies 🚀.  
 
 ## 📊 GitHub Stats & Streak Stats_:
-
-
 <table>
   <tr>
     <td valign="top">
@@ -23,7 +21,7 @@ Hi 👋, I'm **Gourav Giri** – an IT undergraduate passionate about **MERN Sta
   </tr>
 </table>
 
-### 🔝 Top Contributed Repo:
+### 🔝 Top Contributed Repo_:
 ![](https://github-contributor-stats.vercel.app/api?username=gouravgithub7710&limit=5&theme=nightowl&combine_all_yearly_contributions=true)  
 
 ---
