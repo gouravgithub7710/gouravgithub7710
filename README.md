@@ -7,7 +7,7 @@ Hi 👋, I'm **Gourav Giri** – an IT undergraduate passionate about **MERN Sta
 📫 **Reach me:** 📧 gouravgiri2004@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/gouravgiri2004/) | 💻 [GitHub](https://github.com/gouravgithub7710)  
 ⚡ **Fun fact:** Love solving DSA & mentoring techies 🚀  
 
-## 📊 GitHub Stats & Streak Stats:
+## 📊 GitHub Stats & Streak Stats_:
 
 
 <table>
