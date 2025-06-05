@@ -1,11 +1,11 @@
 # Gourav Giri💫 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 Hi 👋, I'm **Gourav Giri** – an IT undergraduate passionate about **MERN Stack**, **AI**, and **Cloud Computing**.  
 
-👀 **Interests:** Full-stack dev 🌐 | AI 🤖 | Open-source 🛠️  
-🌱 **Learning:** React.js ⚛️ | AI integration 🤖 | Web Dev🏗️  
-💞️ **Collab on:** AI & Web projects 🔥 | Open-source 🏆  
+👀 **Interests:** Full-stack dev 🌐 | AI 🤖 | Open-source 🛠️. 
+🌱 **Learning:** React.js ⚛️ | AI integration 🤖 | Web Dev🏗️. 
+💞️ **Collab on:** AI & Web projects 🔥 | Open-source 🏆.  
 📫 **Reach me:** 📧 gouravgiri2004@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/gouravgiri2004/) | 💻 [GitHub](https://github.com/gouravgithub7710)  
-⚡ **Fun fact:** Love solving DSA & mentoring techies 🚀  
+⚡ **Fun fact:** Love solving DSA & mentoring techies 🚀.  
 
 ## 📊 GitHub Stats & Streak Stats_:
 
